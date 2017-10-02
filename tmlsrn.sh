@@ -16,48 +16,6 @@ if [ "yourpasswordhere" == $value ] ; then
     exit
 else
  clear
- echo "        .-.        "
- echo "        |U|        "
- echo "        | |        "
- echo "        | |        "
- echo "       _| |_       "
- echo "      | | | |-.    "
- echo "     /|       |    "
- echo "    | |       |    "
- echo "    |         |    "
- echo "    \         /    "
- echo "     |       |     "
- echo "     |       |     "
- sleep 0.3
- clear
- echo " "
- echo " "
- echo "        .-.        "
- echo "        | |        "
- echo "       _| |_       "
- echo "      | | | |-.    "
- echo "     /|       |    "
- echo "    | |       |    "
- echo "    |         |    "
- echo "    \         /    "
- echo "     |       |     "
- echo "     |       |     "
- sleep 0.3
- clear
- echo " "
- echo " "
- echo " "
- echo "        .-.        "
- echo "       _| |_       "
- echo "      | | | |-.    "
- echo "     /|       |    "
- echo "    | |       |    "
- echo "    |         |    "
- echo "    \         /    "
- echo "     |       |     "
- echo "     |       |     "
- sleep 0.3
- clear
  echo " "
  echo " "
  echo " "
