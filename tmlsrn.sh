@@ -12,7 +12,6 @@ cal
 echo "Enter the magic word : "
 read -s value
 if [ "yourpasswordhere" == $value ] ; then
-    cd ~/
     clear
     exit
 else
