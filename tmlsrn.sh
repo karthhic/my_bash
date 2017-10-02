@@ -15,8 +15,7 @@ if [ "yourpasswordhere" == $value ] ; then
     clear
     exit
 else
-  #!/bin/bash
-  clear
+ clear
  echo "        .-.        "
  echo "        |U|        "
  echo "        | |        "
