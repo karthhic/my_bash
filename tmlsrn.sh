@@ -70,7 +70,7 @@ else
  echo "    \         /    "
  echo "     |       |     "
  echo "     |       |     "
- sleep 0.3
+ sleep 1
  $0
  exit
 fi
