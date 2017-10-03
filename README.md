@@ -17,4 +17,4 @@ Keyboard emulator. I used to enter the password once my laptop got locked by pus
 
 ## tmlsrn.sh
 An extra protection with a password and a rude reply.
-[![security]](https://www.youtube.com/embed/aZmjlXrf2Pk)
+[![security](https://www.youtube.com/upload_thumbnail?v=aZmjlXrf2Pk&t=hqdefault&ts=1507018060815)](https://www.youtube.com/embed/aZmjlXrf2Pk)
